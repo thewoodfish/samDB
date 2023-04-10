@@ -54,3 +54,4 @@ SamaritanDB plays a big role in the SamOS ecosystem and our vision to give power
 We will never stop creating great products for a better internet.</br>
 👋🏽 bis bald 👋🏽
 
+&copy; Algorealm 2023
